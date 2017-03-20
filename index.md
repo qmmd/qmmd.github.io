@@ -8,4 +8,4 @@ title: qmmd
 
 # Progress
 
-[https://github.com/lanl/qmd-progress](https://github.com/lanl/qmd-progress)
+[https://lanl.github.io/qmd-progress/](https://lanl.github.io/qmd-progress/)
